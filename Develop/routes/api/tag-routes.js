@@ -59,7 +59,7 @@ router.put('/:id', (req, res) => {
   )
     .then(dbPostData => {
       if (!dbPostData) {
-        res.status(404).json({ message: 'No post found with this id' });
+        res.status(404).json({ message: 'No Tag found with this id' });
         return;
       }
       res.json(dbPostData);
@@ -78,7 +78,7 @@ router.delete('/:id', (req, res) => {
   })
     .then(dbPostData => {
       if (!dbPostData) {
-        res.status(404).json({ message: 'No post found with this id' });
+        res.status(404).json({ message: 'No Tag found with this id' });
         return;
       }
       res.json(dbPostData);
