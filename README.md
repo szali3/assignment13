@@ -1,6 +1,6 @@
 # employeeTracker
 
-![Screenshot](insomnia.png)
+![Screenshot](insomnia.PNG)
 
 ## Summary  
 
