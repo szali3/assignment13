@@ -1,10 +1,10 @@
 # employeeTracker
 
-![Screenshot]()
+![Screenshot](insomnia.png)
 
 ## Summary  
 
-This project will build the back end for an e-commerce site. It uses Express.js configure route and Sequelize to interact with a MySQL database. Saved envirnoment vairables to seperate file.
+This project will build the back end for an e-commerce site. It uses Express.js to configure routes and Sequelize to interact with a MySQL database. the project uses .env to save envirnoment vairables to seperate file. it will also use insonima to test backend routes.
 
 ## Installation
 
@@ -15,10 +15,11 @@ npm start
 
 ## Walkthrough Video
 
+https://drive.google.com/file/d/1JdGvlI281nO96gk3T70fKGqGzQ5vgAut/view?usp=sharing
 
 ## Tools used
 
-Node,Express,dotenv,squelelize and msql2.
+Node,Express,dotenv,squelelize,insonima and msql2.
 
 ## Contributors
 
