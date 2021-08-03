@@ -15,7 +15,7 @@ npm start
 
 ## Walkthrough Video
 
-https://drive.google.com/file/d/1-42UcB7wkR_GQt1rPjbljFzEnmN6qX2b/view?usp=sharing
+https://drive.google.com/file/d/1nDPgpoXQSFvbabC_JFSMnat56EdFjxne/view?usp=sharing
 
 ## Tools used
 
